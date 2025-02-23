@@ -98,38 +98,49 @@ PC’s IP Assigning Done VIA DHCP:
 ![Alt text](Screenshots/VLAN-Config-2.png)
 
 Admin (VLAN 10):
- 
 
+![Alt text](Screenshots/VLAN10.png)
 
 Finance (VLAN 20):
  
+![Alt text](Screenshots/VLAN20.png)
+
 Support Service (VLAN 30):
+
+![Alt text](Screenshots/VLAN30.png)
  
 HR (VLAN 40):
- 
+
+![Alt text](Screenshots/VLAN40.png)
 
 Senior Software Developer (VLAN 50):
+
+![Alt text](Screenshots/VLAN50.png)
  
 Junior Software Developer (VLAN 60):
+
+![Alt text](Screenshots/VLAN60.png)
  
 Cyber Security (VLAN 70):
+
+![Alt text](Screenshots/VLAN70.png)
  
 
 Marketing (VLAN 80):
  
+![Alt text](Screenshots/VLAN80.png)
+
 Senior R&D (VLAN 90):
+
+![Alt text](Screenshots/VLAN90.png)
  
 Junior R&D (VLAN 100):
  
+![Alt text](Screenshots/VLAN100.png)
 
 HQ-Router:
- 
- 
 
-
-
-
-
+![Alt text](Screenshots/HQR-1.png)
 
 R&D-Router:
  
