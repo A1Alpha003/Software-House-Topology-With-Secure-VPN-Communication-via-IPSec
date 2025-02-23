@@ -52,6 +52,7 @@ Network Objectives
 This configuration will ensure that all users across the HQ and R&D branches can securely access resources, maintain high availability, and achieve optimal network performance.
 
 Topology:
+
  ![Alt text](Screenshots/Topology.png)
 
 HQ:
