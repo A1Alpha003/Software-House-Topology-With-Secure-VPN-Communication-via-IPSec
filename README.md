@@ -425,7 +425,7 @@ HQ-Router:
  
 ![Alt text](Screenshots/HQrouter.png)
 
-![Alt text](Screenshots/HQrouter-1.png)
+![Alt text](Screenshots/HQrouter1.png)
 
 R&D-Router:
 
