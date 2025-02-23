@@ -73,7 +73,7 @@ These 3 Buildings Connected VIA A Multi-layered Switch
 
 R&D Branch:
 
-![Alt text](Screenshots/R&D Branch.png)
+![Alt text](Screenshots/R&D-Branch.png)
  
 These 2 Departments Connected VIA A Multi-layered Switch
 Devices Used:
@@ -89,8 +89,14 @@ IP Assigning:
 PC’s IP Assigning Done VIA DHCP:
  
  
+![Alt text](Screenshots/IP-Assigning-1.png)
  
+![Alt text](Screenshots/IP-Assigning-2.png)
  
+![Alt text](Screenshots/VLAN-Config-1.png)
+
+![Alt text](Screenshots/VLAN-Config-2.png)
+
 Admin (VLAN 10):
  
 
