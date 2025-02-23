@@ -57,6 +57,8 @@ Topology:
 
 HQ:
 Building A:
+
+![Alt text](Screenshots/BuildingA.png)
  
 Building B:
  
