@@ -225,10 +225,10 @@ Web Server Setup:
 Testing Web Server:
 
  
-![Alt text](Screenshots/WebServer-test.png)
+![Alt text](Screenshots/Webserver-test.png)
 
 
-![Alt text](Screenshots/WebServer-test1.png)
+![Alt text](Screenshots/Webserver-test1.png)
  
 
 FTP Server (File Transfer Protocol Server):
