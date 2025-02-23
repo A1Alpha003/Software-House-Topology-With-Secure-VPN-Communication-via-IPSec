@@ -667,7 +667,7 @@ IPSEC-VPN-Router0:
 
 IPSEC-VPN-Router1:
  
- ![Alt text](Screenshots/ipsecr1.png)
+ ![Alt text](Screenshots/ipsec1.png)
 
  ![Alt text](Screenshots/ipsec1-1.png)
  
