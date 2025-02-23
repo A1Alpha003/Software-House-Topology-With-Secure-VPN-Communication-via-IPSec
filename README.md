@@ -619,16 +619,44 @@ Using IPSEC VPN tunnelling ensures that the software house achieves secure, encr
 VPN Configurations:
 Router Configurations:
 IPSEC-VPN-Router0: 
+
+ ![Alt text](Screenshots/ipsecr0.png)
+
+  
+ ![Alt text](Screenshots/ipsecr0-1.png)
  
  
+ ![Alt text](Screenshots/ipsecr0-2.png)
+
+ 
+ ![Alt text](Screenshots/ipsecr0-3.png)
+
+ 
+ ![Alt text](Screenshots/ipsecr0-4.png)
+
+ 
+ ![Alt text](Screenshots/ipsecr0-5.png)
+
+ 
+ ![Alt text](Screenshots/ipsecr0-6.png)
+
+ 
+ ![Alt text](Screenshots/ipsecr0-7.png)
+
+ 
+ ![Alt text](Screenshots/ipsecr0-8.png)
  
  
+ ![Alt text](Screenshots/ipsecr0-9.png)
+
  
+ ![Alt text](Screenshots/ipsecr0-10.png)
+
  
+ ![Alt text](Screenshots/ipsecr0-11.png)
+
  
- 
- 
- 
+ ![Alt text](Screenshots/ipsecr0-12.png)
  
  
  
