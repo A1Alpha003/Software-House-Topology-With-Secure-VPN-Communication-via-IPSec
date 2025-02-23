@@ -220,8 +220,15 @@ o	Lightweight, high-speed server often used for WordPress hosting.
 By deploying a web server, the software house ensures seamless delivery of internal and external services, enabling efficient collaboration across departments and branches. The web server forms the backbone of the organization’s online and intranet operations, supporting both employee productivity and customer engagement.
 Web Server Setup:
  
+![Alt text](Screenshots/WebServer-Setup.png)
+
 Testing Web Server:
+
  
+![Alt text](Screenshots/WebServer-test.png)
+
+
+![Alt text](Screenshots/WebServer-test1.png)
  
 
 FTP Server (File Transfer Protocol Server):
@@ -298,9 +305,15 @@ By deploying an FTP server, the software house ensures efficient, secure, and ce
 
 FTP Server Setup:
  
+![Alt text](Screenshots/ftpserver-Setup.png)
 
 Testing FTP Server:
  
+![Alt text](Screenshots/ftpserver-test.png)
+
+![Alt text](Screenshots/ftpserver-test1.png)
+
+![Alt text](Screenshots/ftpserver-test2.png)
  
  
 VLAN (Virtual Local Area Network):
