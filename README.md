@@ -423,15 +423,13 @@ Trunk mode:
 Basic Router Configurations:
 HQ-Router:
  
- 
+![Alt text](Screenshots/HQrouter.png)
 
-
-
-
-
+![Alt text](Screenshots/HQrouter-1.png)
 
 R&D-Router:
- 
+
+ ![Alt text](Screenshots/RDrouter.png)
 
 Inter-VLAN Routing:
 Inter-VLAN Routing refers to the process of enabling communication between devices on different VLANs. While VLANs provide logical segmentation of the network, they also create isolated broadcast domains. To allow devices in separate VLANs to communicate, inter-VLAN routing is required, typically performed by a Layer 3 device such as a router or a Layer 3 switch.
@@ -474,11 +472,14 @@ o	Since the R&D branch has fewer VLANs (Senior R&D and Junior R&D), a router-on-
 o	Traffic between sensitive departments like Cyber Security and Junior Software Developers can be routed through firewalls or monitored for compliance, ensuring data protection.
 By implementing inter-VLAN routing, the software house can achieve seamless communication between departments while maintaining the segmentation and security provided by VLANs. It ensures efficient use of resources and facilitates both intra- and inter-branch connectivity.
 Inter-VLAN Routing Configurations:
+
 HQ-Router:
  
- 
+![Alt text](Screenshots/HQrouter-inter.png) 
+
 R&D-Router:
- 
+
+ ![Alt text](Screenshots/RDrouter-inter.png)
 
 DHCP (Dynamic Host Configuration Protocol):
 DHCP is a network management protocol used to automatically assign IP addresses and other network configuration settings to devices on a network. This eliminates the need for manual configuration and ensures efficient use of IP addresses.
@@ -525,9 +526,14 @@ o	Each VLAN has its own DHCP scope (range of IP addresses). A DHCP server or rel
 o	When VLANs span multiple subnets, a DHCP relay agent is configured on switches or routers to forward DHCP requests from clients in different VLANs to the central DHCP server.
 By implementing DHCP, the software house ensures efficient IP management, reduces administrative tasks, and provides seamless connectivity for devices across both branches. It enhances scalability and supports dynamic environments where devices frequently connect and disconnect from the network.
 DHCP Configurations:
+
 HQ-Router:
+
+![Alt text](Screenshots/HQrouter-dhcp.png)
  
 R&D-Router:
+
+![Alt text](Screenshots/RDrouter-dhcp.png)
  
 RIPv2 (Routing Information Protocol Version 2):
 RIPv2 is a distance-vector routing protocol used to exchange routing information between routers in a network. It is an enhancement of RIPv1, supporting classless inter-domain routing (CIDR), subnet masks, and authentication. RIPv2 is simple to configure and suitable for smaller networks.
@@ -573,19 +579,16 @@ o	Periodic updates can consume bandwidth, but multicast updates in RIPv2 help mi
 By using RIPv2, the software house can achieve straightforward and reliable routing between its HQ and R&D branches, as well as between departments within each branch. Its simplicity, combined with support for classless routing and authentication, makes it a suitable choice for the organization's needs.
 
 
-
-
-
-
-
-
 Implementing RIPv2:
+
 HQ-Router:
+
+![Alt text](Screenshots/HQrouter-rip.png)
  
 R&D-Router:
+
+![Alt text](Screenshots/RDrouter-rip.png)
  
-
-
 
 IPSEC VPN Tunnelling:
 IPSEC (Internet Protocol Security) is a suite of protocols designed to provide secure communication over an IP network. It ensures data confidentiality, integrity, and authenticity by encrypting and authenticating the data packets exchanged between two endpoints.
