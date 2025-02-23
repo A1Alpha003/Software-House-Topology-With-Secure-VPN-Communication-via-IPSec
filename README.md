@@ -52,7 +52,7 @@ Network Objectives
 This configuration will ensure that all users across the HQ and R&D branches can securely access resources, maintain high availability, and achieve optimal network performance.
 
 Topology:
- 
+ ![Alt text](https://github.com/A1_Alpha003/Software-House-Topology-With-Secure-VPN-Communication-via-IPSec/Screenshots/Topology.png)
 
 HQ:
 Building A:
