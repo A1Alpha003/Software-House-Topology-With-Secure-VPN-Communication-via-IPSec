@@ -362,62 +362,61 @@ Using VLANs allows the software house to achieve a structured, secure, and effic
 Configuring VLAN On Layer 2 Switch (access layer):
 Admin-Switch:
  
+![Alt text](Screenshots/adminswitch-L2-VLAN.png)
+
 Finance-Switch:
- 
+
+![Alt text](Screenshots/Financeswitch-L2-VLAN.png)
 
 Support Service-Switch:
  
+![Alt text](Screenshots/ss_switch-L2-VLAN.png)
 
 HR-Switch:
  
+![Alt text](Screenshots/HRswitch-L2-VLAN.png)
 
 Senior_software_dev-Switch:
  
+![Alt text](Screenshots/ssd_switch-L2-VLAN.png)
 
 Junior_software_dev-Switch:
  
+![Alt text](Screenshots/jsd_switch-L2-VLAN.png)
 
 Cyber_security-Switch:
  
+![Alt text](Screenshots/CYSswitch-L2-VLAN.png)
 
 Marketing-Switch:
+
+![Alt text](Screenshots/marketingswitch-L2-VLAN.png)
  
 
 SRD-Switch:
+
+![Alt text](Screenshots/SRDswitch-L2-VLAN.png)
  
 
 Junior_R&D-Switch:
+
+![Alt text](Screenshots/JRDswitch-L2-VLAN.png)
  
 HQ-Switch:
 
- 
- 
-
+![Alt text](Screenshots/HQswitch-L2-VLAN.png)
 
 Trunk mode:
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Alt text](Screenshots/Trunkmode.png)
 
 R&D-Switch:
+
+![Alt text](Screenshots/RDswitch-L2-VLAN.png)
  
-
-
-
 Trunk mode:
+
+![Alt text](Screenshots/Trunkmode1.png)
  
 
 Basic Router Configurations:
