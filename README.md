@@ -305,7 +305,7 @@ By deploying an FTP server, the software house ensures efficient, secure, and ce
 
 FTP Server Setup:
  
-![Alt text](Screenshots/ftpserver-Setup.png)
+![Alt text](Screenshots/ftpServer-Setup.png)
 
 Testing FTP Server:
  
