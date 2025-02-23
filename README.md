@@ -667,30 +667,53 @@ IPSEC-VPN-Router0:
 
 IPSEC-VPN-Router1:
  
+ ![Alt text](Screenshots/ipsecr1.png)
+
+ ![Alt text](Screenshots/ipsec1-1.png)
  
+ ![Alt text](Screenshots/ipsec1-2.png)
  
+ ![Alt text](Screenshots/ipsec1-3.png)
  
+ ![Alt text](Screenshots/ipsec1-4.png)
  
+ ![Alt text](Screenshots/ipsec1-5.png)
  
+ ![Alt text](Screenshots/ipsec1-6.png)
  
+ ![Alt text](Screenshots/ipsec1-7.png)
  
+ ![Alt text](Screenshots/ipsec1-8.png)
  
+ ![Alt text](Screenshots/ipsec1-9.png)
  
+ ![Alt text](Screenshots/ipsec1-10.png)
  
+ ![Alt text](Screenshots/ipsec1-11.png)
  
+ ![Alt text](Screenshots/ipsec1-12.png)
  
 HQ-Router:
+ 
+ ![Alt text](Screenshots/HQipsec.png)
+
+
+ ![Alt text](Screenshots/HQipsec1.png)
  
  
 R&D-Router:
 
+ ![Alt text](Screenshots/RDipsec.png)
  
+ ![Alt text](Screenshots/RDipsec1.png)
  
 
 Testing VPN Connection VIA PDU:
+
 Admin1 to JRD1:
  
 
+ ![Alt text](Screenshots/pdutest.png)
 
 
 
