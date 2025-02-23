@@ -62,13 +62,18 @@ Building A:
  
 Building B:
  
+![Alt text](Screenshots/BuildingB.png)
 
 Building C:
+
+![Alt text](Screenshots/BuildingC.png)
  
 These 3 Buildings Connected VIA A Multi-layered Switch
 
 
 R&D Branch:
+
+![Alt text](Screenshots/R&D-Branch.png)
  
 These 2 Departments Connected VIA A Multi-layered Switch
 Devices Used:
