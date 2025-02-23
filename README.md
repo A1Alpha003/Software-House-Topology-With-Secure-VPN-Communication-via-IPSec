@@ -421,6 +421,7 @@ Trunk mode:
  
 
 Basic Router Configurations:
+
 HQ-Router:
  
 ![Alt text](Screenshots/HQrouter.png)
