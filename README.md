@@ -360,6 +360,7 @@ Using VLANs allows the software house to achieve a structured, secure, and effic
 
 
 Configuring VLAN On Layer 2 Switch (access layer):
+
 Admin-Switch:
  
 ![Alt text](Screenshots/adminswitch-L2-VLAN.png)
@@ -386,7 +387,7 @@ Junior_software_dev-Switch:
 
 Cyber_security-Switch:
  
-![Alt text](Screenshots/CYSswitch-L2-VLAN.png)
+![Alt text](Screenshots/CYS_switch-L2-VLAN.png)
 
 Marketing-Switch:
 
